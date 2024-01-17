@@ -18,7 +18,7 @@
 </center>
 
 
- <img src="https://github.com/vastav1812/vastav1812/blob/main/2.jpg" img align="right" width=30% height=30%>
+ <img src="https://github.com/vastav1812/vastav1812/blob/b7cfa3900c4796fe81796857526ae62b-sticker.png" img align="right" width=30% height=30%>
  <img src="https://github-readme-stats.vercel.app/api?username=vastav1812&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515" img align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastav1812&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515">
  
