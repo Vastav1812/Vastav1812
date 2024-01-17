@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=dotslashsimran&color=864879)
+![](https://komarev.com/ghpvc/?username=vastav182&color=f0f0f0)
 ### Hi there, This is Vastav Bishnoi, I'm in my third year of Computer Science Engineering. My forte is App Development. When I get some free time you might catch me strumming my guitar (as it gently weeps) ;)
 - I'm currently learning doing Reactnative.
 - How to reach me:
