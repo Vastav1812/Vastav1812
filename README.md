@@ -6,21 +6,21 @@
     - Twitter: https://twitter.com/BishnoiVastav
 <center>
     
-[![Email](https://img.shields.io/badge/-EMAIL-719FB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simransachdeva966@gmail.com?subject=[GitHub])
-[![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/Vastav1812)
-[![Instagram](https://img.shields.io/badge/instagram-d18eb3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vastav_11)
-[![Discord](https://img.shields.io/badge/discord-726A95.svg?style=for-the-badge&logo=discord&logoColor=white)](vastav_)
-[![Twitter](https://img.shields.io/badge/twitter-689683.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BishnoiVastav)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-864879?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vastav-bishnoi-8b6071223/)
-[![Medium](https://img.shields.io/badge/medium-88a9bf.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vastav1812)
+[![Email](https://img.shields.io/badge/-EMAIL-BCD4DE?style=for-the-badge&logo=gmail&logoColor=white&text=white)](mailto:simransachdeva966@gmail.com?subject=[GitHub])
+[![Github](https://img.shields.io/badge/github-A5CCD1.svg?style=for-the-badge&logo=github&logoColor=white&textColor=white)](https://www.github.com/Vastav1812)
+[![Instagram](https://img.shields.io/badge/instagram-A0B9BF.svg?style=for-the-badge&logo=instagram&logoColor=white&textColor=white)](https://www.instagram.com/vastav_11)
+[![Discord](https://img.shields.io/badge/discord-9DACB2.svg?style=for-the-badge&logo=discord&logoColor=white&textColor=white)](vastav_)
+[![Twitter](https://img.shields.io/badge/twitter-949BA0.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BishnoiVastav)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-BCD4DE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vastav-bishnoi-8b6071223/)
+[![Medium](https://img.shields.io/badge/medium-949BA0.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vastav1812)
 ---
 
 </center>
 
 
  <img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/b7cfa3900c4796fe81796857526ae62b-sticker.png" img align="right" width=30% height=30%>
- <img src="https://github-readme-stats.vercel.app/api?username=vastav1812&&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515" img align="left"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastav1812&show_icons=true&title_color=726A95&icon_color=864879&text_color=719FB0&bg_color=151515">
+ <img src="https://github-readme-stats.vercel.app/api?username=vastav1812&&show_icons=true&title_color=BCD4DE&icon_color=864879&text_color=A0B9BF&bg_color=151515" img align="left"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastav1812&show_icons=true&title_color=BCD4DE&icon_color=A5CCD1&text_color=A0B9BF&bg_color=151515">
  
  ---
  
