@@ -18,7 +18,7 @@
 </center>
 
 
- <img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/b7cfa3900c4796fe81796857526ae62b-sticker.png" img align="center" width=60% height=60%>
+ <img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/b7cfa3900c4796fe81796857526ae62b-sticker.png" img align="right" width=37% height=37%>
  <img src="https://github-readme-stats.vercel.app/api?username=vastav1812&&show_icons=true&title_color=BCD4DE&icon_color=864879&text_color=A0B9BF&bg_color=151515" img align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastav1812&show_icons=true&title_color=BCD4DE&icon_color=A5CCD1&text_color=A0B9BF&bg_color=151515">
  
@@ -41,7 +41,7 @@
 
 ### Spotify Jams🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d7kqbto6qpyxgyi6a3madwmi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d7kqbto6qpyxgyi6a3madwmi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 <img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/8204768331ca7902d14ffc09c3c21367-sticker.png" img align="right" width=30% height=30%>
 
 
