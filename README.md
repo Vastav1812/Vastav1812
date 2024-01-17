@@ -42,7 +42,7 @@
 ### Spotify Jams🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d7kqbto6qpyxgyi6a3madwmi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)) 
-<img src="https://github.com/vastav1812/vastav1812/blob/8204768331ca7902d14ffc09c3c21367-sticker.png" img align="right" width=15% height=15%>
+<img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/b7cfa3900c4796fe81796857526ae62b-sticker.png" img align="right" width=15% height=15%>
 
 
 <!--
