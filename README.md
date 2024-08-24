@@ -27,22 +27,22 @@
 ### Technical Skills
 
 #### **Programming Languages**
-- **Python** ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ★★★★★★★★☆☆ (8/10)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript) ★★★★★★★☆☆☆ (7/10)
-- **C** ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C) ★★★★★★☆☆☆☆ (6/10)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
 
 #### **Web Development**
-- **HTML5** ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) ★★★★★★★★★★☆ (10/10)
-- **CSS3** ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6) ★★★★★★★★☆☆ (8/10)
-- **Git** ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ★★★★★★★★★★☆ (10/10)
-- **GitHub** ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github) ★★★★★★★★★★☆ (10/10)
-- **VSCode** ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC) ★★★★★★★★★★☆ (10/10)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 #### **Tools & Platforms**
-- **Flutter** ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) ★★★★★★☆☆☆☆ (6/10)
-- **Jupyter Notebook** ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter) ★★★★★★★★☆☆ (8/10)
-- **MATLAB** ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB) ★★★★★★☆☆☆☆ (6/10)
-- **Figma** ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma) ★★★★★★★☆☆☆ (7/10)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
 
 ### Spotify Jams🎧
