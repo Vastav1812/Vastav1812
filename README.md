@@ -45,10 +45,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
 
-### Spotify Jams🎧
+### Grid Snak svg🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313d7kqbto6qpyxgyi6a3madwmi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
-<img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/8204768331ca7902d14ffc09c3c21367-sticker.png" img align="right" width=30% height=30%>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
 
 
 <!--
