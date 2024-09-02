@@ -21,7 +21,7 @@
  <img src="https://github.com/Vastav1812/Vastav1812/blob/main/blob/b7cfa3900c4796fe81796857526ae62b-sticker.png" img align="right" width=37% height=37%>
  <img src="https://github-readme-stats.vercel.app/api?username=vastav1812&&show_icons=true&title_color=BCD4DE&icon_color=864879&text_color=A0B9BF&bg_color=151515" img align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastav1812&show_icons=true&title_color=BCD4DE&icon_color=A5CCD1&text_color=A0B9BF&bg_color=151515">
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e35cdf7e-c5a1-4c80-9742-88f7d5562148" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
  
  ---
  
