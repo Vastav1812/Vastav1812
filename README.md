@@ -6,7 +6,7 @@
     - Twitter: https://twitter.com/BishnoiVastav
 <center>
     
-[![Email](https://img.shields.io/badge/-EMAIL-BCD4DE?style=for-the-badge&logo=gmail&logoColor=white&text=white)](mailto:simransachdeva966@gmail.com?subject=[GitHub])
+[![Email](https://img.shields.io/badge/-EMAIL-BCD4DE?style=for-the-badge&logo=gmail&logoColor=white&text=white)](mailto:vastav1812@gmail.com?subject=[GitHub])
 [![Github](https://img.shields.io/badge/github-A5CCD1.svg?style=for-the-badge&logo=github&logoColor=white&textColor=white)](https://www.github.com/Vastav1812)
 [![Instagram](https://img.shields.io/badge/instagram-A0B9BF.svg?style=for-the-badge&logo=instagram&logoColor=white&textColor=white)](https://www.instagram.com/vastav__11)
 [![Discord](https://img.shields.io/badge/discord-9DACB2.svg?style=for-the-badge&logo=discord&logoColor=white&textColor=white)](vastav_)
