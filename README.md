@@ -2,7 +2,7 @@
 ### Hi there, This is Vastav Bishnoi, I'm in my Fourth year of Computer Science Engineering. My forte is Web Development and Data Science. When I get some free time you might catch me strumming my guitar (as it gently weeps) ;)
 - I'm currently learning doing Reactnative.
 - How to reach me:
-    - Email: vastav.bishnoi@icloud.com
+    - Email: vastav1812@gmail.com
     - Twitter: https://twitter.com/BishnoiVastav
 <center>
     
