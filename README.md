@@ -35,6 +35,10 @@
 |:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api?username=Vastav1812&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=Code%20Singularity"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vastav1812&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=8&custom_title=Digital%20Lexicon"> |
 
+| **Streak Plasma** | **Contribution DNA** |
+|:---:|:---:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vastav1812&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=00FF00"> | <img src="https://github-contribution-stats.vercel.app/api/?username=Vastav1812&theme=matrix&show_icons=true"> |
+
 </div>
 
 ---
