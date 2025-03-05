@@ -1,45 +1,66 @@
-# <div align="center">VASTAV BISHNOI </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=22F7F7&center=true&vCenter=true&width=800&height=50&lines=%3E+Full+Stack+Architect+%7C+AI%2FML+Engineer+%7C+Blockchain+Dev;%3E+4th+Year+CS+Undergrad+%7C+Code+Shaman+%7C+Digital+Alchemist)" alt="Typing SVG">
+  
+# <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="50px"> Vastav's Code Dominion
+
+[![GitHub Score](https://img.shields.io/badge/GitHub_Score-987%2F1000-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vastav1812)
+![Profile Rank](https://img.shields.io/badge/Rank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FFD700?style=for-the-badge)
+![Coding Tier](https://img.shields.io/badge/Tier-ELITE%20DEVELOPER-8A2BE2?style=for-the-badge)
+
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7eN/giphy.gif?cid=ecf05e47a0n3gi1jqizzkna89gi3q3t6eu5d06uj0snxkt5z&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40px"> **Cyber Stack Matrix**
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40px"> **Digital Glory**
 
-### **CORE CODE CYCLE**
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-0.8+-363636?logo=solidity&logoColor=white&style=for-the-badge)
+<div align="center">
 
-### **DEPLOYMENT DEV**
-![AWS](https://img.shields.io/badge/AWS-EC2/S3/Lambda-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-Functions-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vastav1812&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=30&margin-h=15&no-frame=true)
 
-### **DATABASE**
-![MongoDB](https://img.shields.io/badge/MongoDB-5.0+-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-7.0+-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> **Live Code Pulse**
+## <img src="https://media.giphy.com/media/Ll5OhkHs0jH0sLqIXG/giphy.gif" width="40px"> **Code Nebula**
 
-```python
-class DigitalBeing(Vastav):
-    def __init__(self):
-        self.skills = {
-            'frontend': ['React', 'Next.js', 'Three.js'],
-            'backend': ['Node', 'Django', 'GraphQL'],
-            'blockchain': ['Smart Contracts', 'Web3', 'Hardhat'],
-            'devops': ['CI/CD', 'Terraform', 'ArgoCD']
-        }
-        
-    def build_future(self):
-        while True:
-            self.code()
-            self.optimize()
-            self.deploy()
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vastav1812&theme=react-dark&hide_border=true&area=true&custom_title=Code%20Pulse%20Matrix&radius=16"> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vastav1812&theme=react&hide_border=true&layout=compact&custom_title=Time%20Continuum%20Breakdown"> |
+|:---:|:---:|
+
+---
+
+## <img src="https://media.giphy.com/media/3o7TKMt1VV28bTZU2A/giphy.gif" width="40px"> **Quantum Analytics**
+
+<div align="center">
+
+| **Nuclear Stats** | **Language Matrix** |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Vastav1812&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=Code%20Singularity"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vastav1812&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=8&custom_title=Digital%20Lexicon"> |
+
+| **Streak Plasma** | **Contribution DNA** |
+|:---:|:---:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vastav1812&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=00FF00"> | <img src="https://github-contribution-stats.vercel.app/api/?username=Vastav1812&theme=matrix&show_icons=true"> |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/XxQrtZMdJ5W3u/giphy.gif" width="40px"> **Achievement Core**
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/Vastav1812?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/8JT7qWR1V7yCI3uDk2/giphy.gif" width="40px"> **Legendary Badges**
+
+<div align="center">
+
+[![Holopin Board](https://holopin.me/vastav1812)](https://holopin.io/@vastav1812)
+  
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-8A2BE2?style=for-the-badge&logo=digitalocean)
+![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solutions-FFA116?style=for-the-badge&logo=leetcode)
+![CodeForces](https://img.shields.io/badge/CodeForces-Candidate_Master-8A2BE2?style=for-the-badge)
+
+</div>
