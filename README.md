@@ -1,4 +1,4 @@
-# <div align="center">🔥 VASTAV BISHNOI </div>
+# <div align="center">VASTAV BISHNOI </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=22F7F7&center=true&vCenter=true&width=800&height=50&lines=%3E+Full+Stack+Architect+%7C+AI%2FML+Engineer+%7C+Blockchain+Dev;%3E+4th+Year+CS+Undergrad+%7C+Code+Shaman+%7C+Digital+Alchemist;%3E+Building+the+Future+One+Commit+at+a+Time+%F0%9F%9A%80)" alt="Typing SVG">
