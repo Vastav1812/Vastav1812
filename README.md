@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="50px"> Vastav's Code Dominion
+# <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="50px"> VASTAV BISHNOI
 
 [![GitHub Score](https://img.shields.io/badge/GitHub_Score-987%2F1000-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vastav1812)
 ![Profile Rank](https://img.shields.io/badge/Rank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FFD700?style=for-the-badge)
@@ -34,10 +34,6 @@
 | **Nuclear Stats** | **Language Matrix** |
 |:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api?username=Vastav1812&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=Code%20Singularity"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vastav1812&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=8&custom_title=Digital%20Lexicon"> |
-
-| **Streak Plasma** | **Contribution DNA** |
-|:---:|:---:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vastav1812&theme=vision-friendly-dark&hide_border=true&background=0D1117&stroke=00FF00"> | <img src="https://github-contribution-stats.vercel.app/api/?username=Vastav1812&theme=matrix&show_icons=true"> |
 
 </div>
 
