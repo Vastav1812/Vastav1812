@@ -95,20 +95,8 @@ I'm a passionate software developer pursuing my B.Tech in Computer Science at SR
 
 <div align="center">
 
-[![Transparent Charity Platform](https://github-readme-stats.vercel.app/api/pin/?username=Vastav1812&repo=charity-platform&theme=react)](https://github.com/Vastav1812/charity-platform)
-[![Loan Aggregation App](https://github-readme-stats.vercel.app/api/pin/?username=Vastav1812&repo=loan-aggregation-app&theme=react)](https://github.com/Vastav1812/loan-aggregation-app)
-
-</div>
-
-#### Blockchain-Based Transparent Charity Platform
-- Designed a blockchain-based charity platform for transparent donation tracking using Ethereum smart contracts
-- Automated fund allocation and provided real-time transaction visibility to donors
-- Developed React.js frontend with MetaMask integration for cryptocurrency transactions
-
-#### Loan Aggregation App
-- Developed app using React Native (TypeScript) to centralize loan management and payments
-- Integrated Firebase Cloud Messaging for real-time repayment alerts
-- Created a dashboard to display loan details, repayment timelines, and outstanding amounts
+[![Transparent Charity Platform](https://github-readme-stats.vercel.app/api/pin/?username=Vastav1812&repo=charity-platform&theme=react)](https://github.com/Vastav1812/Blochain_Transparent_Charity)
+[![Loan Aggregation App](https://github-readme-stats.vercel.app/api/pin/?username=Vastav1812&repo=loan-aggregation-app&theme=react)](https://github.com/Vastav1812/Loan_aggregating_app)
 
 ---
 
