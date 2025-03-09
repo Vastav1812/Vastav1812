@@ -95,8 +95,8 @@ I'm a passionate software developer pursuing my B.Tech in Computer Science at SR
 
 <div align="center">
 
-[![Transparent Charity Platform](https://github.com/Vastav1812/Blochain_Transparent_Charity)](https://github.com/Vastav1812/Blochain_Transparent_Charity)
-[![Loan Aggregation App](https://github.com/Vastav1812/Loan_aggregating_app)](https://github.com/Vastav1812/Loan_aggregating_app)
+[![Transparent Charity Platform]()](https://github.com/Vastav1812/Blochain_Transparent_Charity)
+[![Loan Aggregation App]()](https://github.com/Vastav1812/Loan_aggregating_app)
 
 ---
 
