@@ -2,10 +2,10 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](https://vastavbishnoi.life)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vastav1812@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-here)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your-leetcode-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vastav-bishnoi-8b6071223/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vastav1812/)
 
 </div>
 
@@ -148,8 +148,8 @@ I'm a passionate software developer pursuing my B.Tech in Computer Science at SR
 
 <p>
 <a href="mailto:vastav1812@gmail.com"><img src="https://img.shields.io/badge/Email-vastav1812@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vastav-bishnoi-8b6071223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/vastav1812/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 <a href="tel:+919878035355"><img src="https://img.shields.io/badge/Phone-%2B91--9878035355-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
